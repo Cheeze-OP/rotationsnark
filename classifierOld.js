@@ -1,3 +1,5 @@
+//do not use, this was the OG confidence rating which was hot garbage, and should never see the light of day
+
 import { pipeline } from "@xenova/transformers";
 
 let classifier = null;
